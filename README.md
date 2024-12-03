@@ -84,8 +84,4 @@
     </span>
 </div>
 
-------
 
-Credit: [sharif-islam96403](https://github.com/sharif-islam96403)
-
-Last Edited on: 04/08/2024
