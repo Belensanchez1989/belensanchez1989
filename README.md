@@ -19,11 +19,11 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<a href="https://www.linkedin.com/in/mariabelen-sanchez/"><img align="center" width="25px" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000"> Belén Sanchez</a>
+<a href="https://www.linkedin.com/in/belsanchez/"><img align="center" width="25px" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000"> Belén Sanchez</a>
 
 <a href="https://github.com/Belensanchez1989?tab=repositories"><img align="center" width="25px" src="https://img.icons8.com/?size=200&id=118557&format=png&color=000000"> Belén Sanchez</a>
 
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=sanchezmariabelen01@gmail.com"><img align="center" width="25px" src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000"> Belén Sanchez</a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=sanchezmariabelen01@gmail.com"><img align="center" width="25px" src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000">belensanchez.dev@gmail.com</a>
 
 <hr>
 
